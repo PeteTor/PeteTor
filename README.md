@@ -54,6 +54,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PeteTor/PeteTor/output/snake.svg" alt="Snake animation" />
 
-###
