@@ -54,10 +54,4 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img height="200" src="https://giphy.com/embed/oFYKw5OTZBZzVONpUh"  />
-</div>
-
-###
