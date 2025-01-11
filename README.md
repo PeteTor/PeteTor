@@ -15,7 +15,7 @@
 ###
 
 <p align="left">👋 Hi, I’m Peter!<br><br>🎓 I’m currently a second-year BSIT student with a deep passion for technology and an eagerness to expand my knowledge every day.<br> I enjoy diving into the ever-evolving tech landscape, learning new tools, and building innovative solutions that bring ideas to life.<br> I’m constantly exploring new skills and working on exciting projects to improve my craft. Collaboration and learning from 
-<br>others drive my growth, <br>and I’m always open to new opportunities to contribute to meaningful projects.<br><br>🌟 Let’s connect and create something amazing together!</p>
+<br>others drive my growth, and I’m always open to new opportunities to contribute to meaningful projects.<br><br>🌟 Let’s connect and create something amazing together!</p>
 
 ###
 
