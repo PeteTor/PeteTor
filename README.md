@@ -1,24 +1,20 @@
-<h2 align="left">Peter Victor Dawis</h2>
+<h1 align="left">👨‍💻 Peter Victor Dawis</h1>
 
 ###
 
+<br clear="both">
+
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=PeteTor.PeteTor&left_text=Total%20views"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="20" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="20" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="20" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="20" alt="instagram logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="20" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="20" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="20" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" height="20" alt="instagram logo"  />
-</div>
-
-###
-
-<p align="left">👋 Hi, I’m Peter!<br>🎓 A second-year BSIT student driven by curiosity and a love for technology.<br>💡 Constantly exploring new skills and building exciting projects!</p>
+<p align="left">👋 Hi, I’m Peter!<br><br>🎓 I’m currently a second-year BSIT student with a deep passion for technology and an eagerness to expand my knowledge every day.<br> I enjoy diving into the ever-evolving tech landscape, learning new tools, and building innovative solutions that bring ideas to life.<br> I’m constantly exploring new skills and working on exciting projects to improve my craft. Collaboration and learning from others drive my growth, <br>and I’m always open to new opportunities to contribute to meaningful projects.<br><br>🌟 Let’s connect and create something amazing together!</p>
 
 ###
 
@@ -27,6 +23,10 @@
 ###
 
 <p align="left">- 🌐 Web Development<br>- 🎨 UI/UX Design<br>- 🎮 Game Development</p>
+
+###
+
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
