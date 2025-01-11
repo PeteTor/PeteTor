@@ -3,6 +3,12 @@
 ###
 
 <div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=PeteTor.PeteTor&left_text=Total%20views"  />
+</div>
+
+###
+
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="35" height="20" alt="gmail logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="35" height="20" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="35" height="20" alt="telegram logo"  />
@@ -53,5 +59,3 @@
 </div>
 
 ###
-
-
