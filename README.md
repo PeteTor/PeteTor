@@ -1,62 +1,53 @@
-<h1 align="left">👨‍💻 Peter Victor Dawis</h1>
+<h1 align="left">👨‍💻 Peter Dawis</h1>
 
 ###
 
-<br clear="both">
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="20" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=plastic" height="20" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="20" alt="telegram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="20" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="20" alt="instagram logo"  />
-</div>
+<h1 align="left">Oh, hey there. Sup? So, what brings you to my profile?</h1>
 
 ###
 
-<p align="left">👋 Hi, I’m Peter!<br><br>🎓 I’m currently a second-year BSIT student with a deep passion for technology and an eagerness to expand my knowledge every day.<br> I enjoy diving into the ever-evolving tech landscape, learning new tools, and building innovative solutions that bring ideas to life.<br> I’m constantly exploring new skills and working on exciting projects to improve my craft. Collaboration and learning from 
-<br>others drive my growth, and I’m always open to new opportunities to contribute to meaningful projects.<br><br>🌟 Let’s connect and create something amazing together!</p>
+<h1 align="left">🚀 Skills</h1>
 
 ###
 
-<h2 align="left">🚀 Skills</h2>
+<h2 align="left">- 🌐 Web Development<br>- 🎨 UI/UX Design<br>- 🎮 Game Development</h2>
 
 ###
 
-<p align="left">- 🌐 Web Development<br>- 🎨 UI/UX Design<br>- 🎮 Game Development</p>
-
-###
-
-<h2 align="left">🛠️ Tech Stack</h2>
+<h1 align="left">🛠️ Tech Stack</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20" alt="cplusplus logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="20" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20" alt="java logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="20" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="20" alt="django logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20" alt="mongodb logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=PeteTor&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?logo=eclipseide&logoColor=white&style=for-the-badge" height="40" alt="eclipseide logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Stack Overflow-F58025?logo=stackoverflow&logoColor=black&style=for-the-badge" height="40" alt="stackoverflow logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="40" alt="xcode logo"  />
 </div>
 
 ###
