@@ -50,4 +50,12 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?logo=xcode&logoColor=white&style=for-the-badge" height="40" alt="xcode logo"  />
 </div>
 
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeteTor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
 ###
