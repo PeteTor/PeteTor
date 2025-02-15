@@ -46,10 +46,12 @@
 
 ###
 
-<div align="left">
+<img src="https://raw.githubusercontent.com/PeteTor/PeteTor/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=PeteTor&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeteTor&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=%20%20%20" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PeteTor&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="120" alt="activity-graph graph"  />
 </div>
 
 ###
