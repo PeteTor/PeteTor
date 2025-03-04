@@ -8,7 +8,7 @@
 
 ###
 
-<h5 align="left">🔥 Status: In Development...<br>🤔 Skill Level: Undefined<br>🪲 Bugs: Plenty<br>🚀 Features: Still Adding...</h5>
+<h1 align="left">🔥 Status...<br>🤔 Skill Level: Undefined<br>🪲 Bugs: Plenty<br>🚀 Features: Still Adding...</h1>
 
 ###
 
