@@ -1,6 +1,6 @@
-<h1 align="left">Commitment-Issues" 💻</h1>
+<h1 align="left">Commitment-Issues 🛑🖥️🔁</h1>
 
-###
+### 
 
 <br clear="both">
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h1 align="left">🔥 Status...<br>🤔 Skill Level: Undefined<br>🪲 Bugs: Plenty<br>🚀 Features: Still Adding...</h1>
+<h2 align="left">🔥 Status...<br>🤔 Skill Level: Undefined<br>🪲 Bugs: Plenty<br>🚀 Features: Still Adding...</h2>
 
 ###
 
