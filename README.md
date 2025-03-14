@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=white&animation=scaleIn&fontAlign=0"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=scaleIn&fontAlign=0&section=header"/>
 
 <h2 align="left">Commitment-Issues</h2>
 
@@ -14,5 +14,5 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=black&animation=scaleIn&fontAlign=0&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=scaleIn&fontAlign=0&section=footer"/>
 
