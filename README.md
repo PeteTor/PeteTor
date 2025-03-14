@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&text=Hello!&animation=blinking&fontAlign=50&section=header&fontSize=20&rotate=-9"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=Hello!&animation=fadeIn&fontAlign=50&section=header&fontSize=20&rotate=0&reversal=false&descAlign=26"/>
 
 <h2 align="left">Commitment-Issues</h2>
 
