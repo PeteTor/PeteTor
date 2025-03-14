@@ -14,5 +14,5 @@
 
 ###
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&animation=scaleIn&fontAlign=0&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=80&color=gradient&text=Hello!&animation=fadeIn&fontAlign=50&section=footer&fontSize=20&rotate=0&reversal=false&descAlign=26"/>
 
