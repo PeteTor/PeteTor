@@ -43,6 +43,7 @@
 </div>
 
 ###
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient"/>
 
 ###
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
