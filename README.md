@@ -4,10 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PeteTor&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true&order=2" height="500" alt="languages graph"  />
-</div>
-
 ###
 <div align="center">
   <img height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9lMmV5b3E4bWxycjE5Mno1NW80czN5dzU2NW4xZ3Z3enhpNzZ3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mTPjPA6SSXgTsnZ1Dh/giphy.gif"  />
